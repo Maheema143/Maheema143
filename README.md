@@ -48,8 +48,4 @@ I'm a dedicated programmer who enjoys turning complex problems into clean, effic
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinaysh778&show_icons=true&theme=radical" alt="Maheema's GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaysh778&theme=radical" alt="GitHub Streak" />
-</p>
+
